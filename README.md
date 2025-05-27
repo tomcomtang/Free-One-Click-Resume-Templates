@@ -16,13 +16,10 @@
 
 | 模板名称 | Project | Origin | 特点 | Demo |
 |---------|---------|--------|------|------|
-| IAM Portfolio | -- | [Origin](https://github.com/learning-zone/website-templates/tree/master/iam-html5-responsive-portfolio-resume-template) | HTML5响应式设计，适合展示作品集 | [Demo](https://edgeone.ai/demo/iam) |
-| John Bootstrap | -- | [Origin](https://github.com/learning-zone/website-templates/tree/master/john-bootstrap-one-page-html5-free-resume-template) | Bootstrap单页设计，简洁大方 | [Demo](https://edgeone.ai/demo/john) |
-| JohnDoe Portfolio | -- | [Origin](https://github.com/learning-zone/website-templates/tree/master/johndoe-portfolio-resume-bootstrap-template) | Bootstrap作品集风格，突出个人特色 | [Demo](https://edgeone.ai/demo/johndoe) |
-| LearnCS8 Resume | -- | [Origin](https://github.com/JordanSchuetz/LearnCS8-Resume) | Bootstrap构建，简洁清晰，适合初学者 | [Demo](https://jordanschuetz.github.io/LearnCS8-Resume/) |
 | Victor Eke Portfolio | -- | [Origin](https://github.com/evavic44/victoreke.com) | Next.js + Sanity + Tailwind CSS，现代化作品集网站 | [Demo](https://victoreke.com) |
 | Brittany Chiang | -- | [Origin](https://github.com/bchiang7/v4) | Gatsby构建，优雅的设计风格，适合设计师 | [Demo](https://v4.brittanychiang.com) |
 | Braydon Coyer | -- | [Origin](https://github.com/braydoncoyer/braydoncoyer.dev) | Next.js 15 + Tailwind + Supabase + Framer Motion，现代化博客作品集 | [Demo](https://braydoncoyer.dev) |
+| JohnDoe Portfolio | -- | [Origin](https://github.com/learning-zone/website-templates/tree/master/johndoe-portfolio-resume-bootstrap-template) | Bootstrap作品集风格，突出个人特色 | [Demo](https://edgeone.ai/demo/johndoe) |
 | Tania Rascia | -- | [Origin](https://www.taniarascia.com/how-to-create-a-memory-game-super-mario-with-plain-javascript/) | 纯JavaScript实现，适合学习前端基础 | [Demo](https://www.taniarascia.com/memory/) |
 | Jemima Abu | -- | [Origin](https://github.com/jemimaabu/portfolio) | 简洁的HTML/CSS作品集，适合快速搭建 | [Demo](https://jemimaabu.com) |
 | Olaolu | -- | [Origin](https://github.com/whizkydee/olaolu.dev) | Vue + Gridsome构建，个人网站与文章集 | [Demo](https://olaolu.dev) |
