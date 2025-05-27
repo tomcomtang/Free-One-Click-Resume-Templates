@@ -37,6 +37,65 @@
 | Zougari47 | -- | [Origin](https://github.com/zougari47/portfolio-template) | Astro + Tailwind CSS，5分钟快速部署 | [Demo](https://zougari47.github.io/portfolio-template) |
 | SRX9 | -- | [Origin](https://github.com/SRX9/portfoliosrx9) | React + TypeScript + Tailwind CSS，现代化作品集 | [Demo](https://srx9.github.io/portfoliosrx9) |
 | Israel Mitolu | -- | [Origin](https://github.com/israelmitolu/premier-portfolio) | HTML + SCSS + GSAP，动画效果丰富 | [Demo](https://mitolu.dev) |
+| Saikat Roy | -- | [Origin](https://github.com/njmsaikat/portfolio) | HTML + CSS + JavaScript，简洁作品集网站 | [Demo](https://saikatroy.netlify.app) |
+| Anand Baraik | -- | [Origin](https://github.com/anandbaraik/anandbaraik.github.io) | React + CSS3 + HTML5，个人作品集展示 | [Demo](https://anandbaraik.github.io) |
+| Nirban Chakraborty | -- | [Origin](https://github.com/nirban256/personal_website) | Next.js 14 + TypeScript + Tailwind CSS + shadcn/ui | [Demo](https://nirban-chakraborty.netlify.app) |
+| Benrobo | -- | [Origin](https://github.com/benrobo/portfolio-v3) | Next.js + Tailwind CSS，使用BaayMax生成 | [Demo](https://benrobo.vercel.app) |
+| AnishDe12020 | -- | [Origin](https://github.com/AnishDe12020/portfolio) | Next.js + Contentlayer + Tailwind CSS，博客作品集 | [Demo](https://portfolio-55fbf2.spheron.app) |
+| Flutter Dev Folio | -- | [Origin](https://github.com/danger-ahead/flutter_dev_folio) | Flutter + Dart，仅需编辑JSON即可部署 | [Demo](https://shourya.vercel.app) |
+| Omar Sherif | -- | [Origin](https://github.com/omar-sherif9992) | React + Next.js + Tailwind CSS，全栈开发者作品集 | [Demo](https://omar-sherif9992.github.io) |
+| Dale Larroder | -- | [Origin](https://github.com/dlarroder/dalelarroder) | Next.js + TypeScript + Tailwind + MDX，现代化个人网站 | [Demo](https://dalelarroder.com) |
+| Guillaume Gouessan | -- | [Origin](https://github.com/superguigui/guillaumegouessan.com) | brindille-es6 + JavaScript，经典作品集网站 | [Demo](https://guillaumegouessan.com) |
+| Reuben Rapose | -- | [Origin](https://github.com/reubence/reubence) | React + TypeScript，全栈开发者作品集 | [Demo](https://reubence.com) |
+| Pycoder2000 Blog | -- | [Origin](https://github.com/pycoder2000/blog) | Next.js + Tailwind + MDX，现代化博客模板 | [Demo](https://musing.vercel.app) |
+| Greg Sithole | -- | [Origin](https://github.com/GregSithole/gregsithole-react-portfolio) | React + CSS，简洁个人作品集 | [Demo](https://gregsithole.com) |
+| BraydenTW | -- | [Origin](https://github.com/BraydenTW/braydentw.io) | Next.js + TypeScript + Tailwind CSS，现代化动画作品集 | [Demo](https://braydentw.io) |
+| Greg Ives | -- | [Origin](https://github.com/gregives/gregives.co.uk) | Next.js + MDX + Tailwind CSS + Firestore，现代化个人网站 | [Demo](https://gregives.co.uk) |
+| Michael Kolesidis | -- | [Origin](https://github.com/michaelkolesidis/michaelkolesidis.com) | TypeScript + Sass + Three.js，获奖作品集网站 | [Demo](https://michaelkolesidis.com) |
+| ErysCode7 | -- | [Origin](https://github.com/ErysCode7/Web-Portfolio) | React + Material UI + SCSS，响应式作品集 | [Demo](https://erysmozo.vercel.app) |
+| Pappyjay23 | -- | [Origin](https://github.com/Pappyjay23/my-portfolio-1) | React + Framer Motion，动画效果作品集 | [Demo](https://pjpportfolio.netlify.app) |
+| bbangjooo | -- | [Origin](https://github.com/bbangjooo/buffalo) | Three.js + TypeScript + Blender，3D博客首页 | [Demo](https://bbangjo.kr) |
+| Maxime Heckel | -- | [Origin](https://github.com/MaximeHeckel/blog.maximeheckel.com) | Next.js + Stitches + MDX，现代化博客模板 | [Demo](https://blog.maximeheckel.com) |
+| Ifedili | -- | [Origin](https://github.com/saucecodee/ifedili.com) | Angular + TypeScript + SCSS，响应式作品集 | [Demo](https://ifedili.com) |
+| Daniel Cranney | -- | [Origin](https://github.com/danielcranney/portfolio) | Next.js + React + TailwindCSS，现代化作品集 | [Demo](https://danielcranney.com) |
+| Theodorus Clarence | -- | [Origin](https://github.com/theodorusclarence/theodorusclarence.com) | Next.js + TypeScript + Tailwind + MDX + Prisma，现代化博客作品集 | [Demo](https://theodorusclarence.com) |
+| Lynn Fisher | -- | [Origin](https://github.com/lynnandtonic/lynnandtonic.com) | Pug + Stylus + JavaScript，创意作品集网站 | [Demo](https://lynnandtonic.com) |
+| Danny Garcia | -- | [Origin](https://github.com/dannygarcia/dannygarcia.github.com) | Astro + TypeScript + GLSL，简洁个人笔记网站 | [Demo](https://dannygarcia.dev) |
+| Jesse's Ramen Shop | -- | [Origin](https://github.com/enderh3art/Ramen-Shop) | JavaScript + GLSL，3D拉面店场景作品集 | [Demo](https://ramen-shop-pro-jesse-s-pro-team-595da84f.vercel.app) |
+| Anurag Hazra | -- | [Origin](https://github.com/anuraghazra/anuraghazra.github.io) | Gatsby + Styled Components，清爽个人品牌网站 | [Demo](https://anuraghazra.dev) |
+| Ben Holmes | -- | [Origin](https://github.com/bholmesdev/bholmesdev) | Astro + TypeScript + Tailwind，白板风格个人网站 | [Demo](https://bholmes.dev) |
+| Abu Said | -- | [Origin](https://github.com/said7388/developer-portfolio) | Next.js + Tailwind CSS，全栈开发者作品集 | [Demo](https://abusaid.netlify.app) |
+| Quiet Node | -- | [Origin](https://github.com/quiet-node/portfolio-v2) | Next.js + TypeScript + Tailwind，朴素个人网站 | [Demo](https://quiet-node.dev) |
+| Victor Williams | -- | [Origin](https://github.com/victorcodess/folio-v1) | Next.js + TypeScript + Tailwind + GSAP，现代作品集网站 | [Demo](https://victorwilliams.me) |
+| Deeshu | -- | [Origin](https://github.com/deeshu2002/folio) | HTML + TypeScript + CSS，简洁作品集网站 | [Demo](https://deeshu2002.github.io/folio) |
+| Eternalfrustation | -- | [Origin](https://github.com/eternalfrustation/eternalfrustation.github.io) | HTML + CSS + JavaScript，直观个人介绍网站 | [Demo](https://eternalfrustation.github.io) |
+| Multikitty | -- | [Origin](https://github.com/multikitty/multikitty.github.io) | HTML + CSS + JavaScript，创意个人品牌网站 | [Demo](https://multikitty.onrender.com) |
+| GoodyBoy301 | -- | [Origin](https://github.com/GoodyBoy301/goodie.work) | JavaScript + SCSS + Pug + GLSL，创意个人作品集 | [Demo](https://folio-one-inky.vercel.app) |
+| Ashutosh Hathidara | -- | [Origin](https://github.com/ashutosh1919/masterPortfolio) | React + JavaScript + CSS，卡通风格作品集 | [Demo](https://ashutoshhathidara.com) |
+| ZIRTR0X | -- | [Origin](https://github.com/ZIRTR0X/PersonalWebsite) | Angular + TypeScript + Tailwind，标准个人简历网站 | [Demo](https://julien-theme.dev) |
+| Shubh Porwal | -- | [Origin](https://github.com/shubh73/devfolio) | Next.js + GSAP + Tailwind，精致小巧个人介绍网站 | [Demo](https://shubhporwal.me) |
+| Sumonta | -- | [Origin](https://github.com/Sumonta056/sumonta056.github.io) | HTML + CSS + JavaScript，精美个人品牌项目 | [Demo](https://sumonta056.vercel.app) |
+| Shivam Gupta | -- | [Origin](https://github.com/the-shivam-gupta/the-shivam-gupta.github.io) | HTML + CSS + JavaScript，暗蓝色主题个人品牌 | [Demo](https://the-shivam-gupta.github.io) |
+| SofiDevO | -- | [Origin](https://github.com/SofiDevO/sofidev-portfolio-astro) | Astro + React + CSS，终端风格女性主题作品集 | [Demo](https://sofidev-portfolio-astro-delta.vercel.app) |
+| Wisnu Caksono | -- | [Origin](https://github.com/wiscaksono/wiscaksono-site) | Svelte + TypeScript + Tailwind，Mac终端风格博客 | [Demo](https://wiscaksono.com) |
+| Alpay Celik | -- | [Origin](https://github.com/AlpayC/portfolio_site) | React + TypeScript + Tailwind，暗色主题全栈作品集 | [Demo](https://alpaycelik.dev) |
+| Jaber Saed | -- | [Origin](https://github.com/Jaber-Saed/3d-protfoluo) | React + Three.js，太空主题3D作品集 | [Demo](https://jaber-saed.vercel.app) |
+| Dhairya Majmudar | -- | [Origin](https://github.com/DhairyaMajmudar/Personal-Portfolio) | React + Tailwind，官网风格个人介绍 | [Demo](https://dhaiyra-majmudar.netlify.app) |
+| Dave Simoes | -- | [Origin](https://github.com/DaveSimoes/Developer.Portfolio) | HTML + CSS + JavaScript，卡通办公主题作品集 | [Demo](https://davesimoesportfolio.netlify.app) |
+| Aravind Ashokan | -- | [Origin](https://github.com/code-lover636/aravindashokan) | React + SCSS + Framer Motion，标准个人作品集 | [Demo](https://aravindashokan.tech) |
+| KD Gehlot | -- | [Origin](https://github.com/KDGehlot2003/Portfolio) | HTML + CSS + JavaScript，灰白风格个人作品集 | [Demo](https://kdgehlot2003.github.io/Portfolio) |
+| John T45 | -- | [Origin](https://github.com/John-T45/John-T45.github.io) | HTML + CSS + JavaScript，黑色主题动画作品集 | [Demo](https://john-t45.github.io) |
+| Krishnavalliappan | -- | [Origin](https://github.com/krishnavalliappan/portfolio-website) | Next.js + TypeScript + Tailwind，蓝色主题终端风格 | [Demo](https://krishnakumar.dev) |
+| Gokul Raja | -- | [Origin](https://github.com/Gokul-Raja84/gokul-raja84.github.io) | JavaScript + CSS，标准个人介绍网站 | [Demo](https://gokul-raja84.github.io) |
+| Chung Nguyen Thanh | -- | [Origin](https://github.com/chunhthanhde) | Flutter + Dart，访客留言板个人品牌 | [Demo](https://chunhthanhde.github.io/card) |
+| Adeola Badero | -- | [Origin](https://github.com/adex-hub/ade-folio) | Next.js + TypeScript + Tailwind，标准前端作品集 | [Demo](https://adeolabadero.me) |
+| Akshay P | -- | [Origin](https://github.com/Akshayp2002/personal-portfolio-angular) | Angular + Tailwind，标准个人作品集 | [Demo](https://devakshay.vercel.app) |
+| Priyansh Tiwari | -- | [Origin](https://github.com/priyanshtiwari001/portfolio) | Next.js + TypeScript + Tailwind，现代化个人作品集 | [Demo](https://priyanshu-tiwari.vercel.app) |
+| Mihir Goswami | -- | [Origin](https://github.com/MIHIR2006/mihir-portfolio) | React + GSAP + Framer Motion，动画效果作品集 | [Demo](https://mihir-goswami-portfolio.vercel.app) |
+| Ata Berkay Karakus | -- | [Origin](https://github.com/berkaykrks/personal-website) | HTML + CSS + JavaScript，简洁动画效果作品集 | [Demo](https://berkaykrks.netlify.app) |
+| CultureDevOps | -- | [Origin](https://github.com/CultureDevOps/blog) | Next.js + TypeScript + MDX，现代化技术博客 | [Demo](https://culturedevops.com) |
+| Deepak Modi | -- | [Origin](https://github.com/decodewithdeepak/Portfolio) | React + TypeScript + Tailwind，动态数据作品集 | [Demo](https://deepakmodi.vercel.app) |
+| Enes | -- | [Origin](https://github.com/enesehs/enesehs.github.io) | HTML + JavaScript，游戏开发者作品集 | [Demo](https://enesehs.github.io) |
 
 ## 🚀 快速部署
 
