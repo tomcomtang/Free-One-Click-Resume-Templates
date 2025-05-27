@@ -63,7 +63,6 @@
 | Multikitty | -- | [Origin](https://github.com/multikitty/multikitty.github.io) | HTML + CSS + JavaScript，创意个人品牌网站 | [Demo](https://multikitty.onrender.com) |
 | GoodyBoy301 | -- | [Origin](https://github.com/GoodyBoy301/goodie.work) | JavaScript + SCSS + Pug + GLSL，创意个人作品集 | [Demo](https://folio-one-inky.vercel.app) |
 | Ashutosh Hathidara | -- | [Origin](https://github.com/ashutosh1919/masterPortfolio) | React + JavaScript + CSS，卡通风格作品集 | [Demo](https://ashutoshhathidara.com) |
-| ZIRTR0X | -- | [Origin](https://github.com/ZIRTR0X/PersonalWebsite) | Angular + TypeScript + Tailwind，标准个人简历网站 | [Demo](https://julien-theme.dev) |
 | Shubh Porwal | -- | [Origin](https://github.com/shubh73/devfolio) | Next.js + GSAP + Tailwind，精致小巧个人介绍网站 | [Demo](https://shubhporwal.me) |
 | Sumonta | -- | [Origin](https://github.com/Sumonta056/sumonta056.github.io) | HTML + CSS + JavaScript，精美个人品牌项目 | [Demo](https://sumonta056.vercel.app) |
 | Shivam Gupta | -- | [Origin](https://github.com/the-shivam-gupta/the-shivam-gupta.github.io) | HTML + CSS + JavaScript，暗蓝色主题个人品牌 | [Demo](https://the-shivam-gupta.github.io) |
