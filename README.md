@@ -19,7 +19,6 @@
 | IAM Portfolio | -- | [Origin](https://github.com/learning-zone/website-templates/tree/master/iam-html5-responsive-portfolio-resume-template) | HTML5响应式设计，适合展示作品集 | [Demo](https://edgeone.ai/demo/iam) |
 | John Bootstrap | -- | [Origin](https://github.com/learning-zone/website-templates/tree/master/john-bootstrap-one-page-html5-free-resume-template) | Bootstrap单页设计，简洁大方 | [Demo](https://edgeone.ai/demo/john) |
 | JohnDoe Portfolio | -- | [Origin](https://github.com/learning-zone/website-templates/tree/master/johndoe-portfolio-resume-bootstrap-template) | Bootstrap作品集风格，突出个人特色 | [Demo](https://edgeone.ai/demo/johndoe) |
-| React Resume | -- | [Origin](https://github.com/tbakerx/react-resume-template) | React + TypeScript + Next.js + Tailwind CSS，现代化技术栈 | [Demo](https://reactresume.com) |
 | LearnCS8 Resume | -- | [Origin](https://github.com/JordanSchuetz/LearnCS8-Resume) | Bootstrap构建，简洁清晰，适合初学者 | [Demo](https://jordanschuetz.github.io/LearnCS8-Resume/) |
 | Victor Eke Portfolio | -- | [Origin](https://github.com/evavic44/victoreke.com) | Next.js + Sanity + Tailwind CSS，现代化作品集网站 | [Demo](https://victoreke.com) |
 | Brittany Chiang | -- | [Origin](https://github.com/bchiang7/v4) | Gatsby构建，优雅的设计风格，适合设计师 | [Demo](https://v4.brittanychiang.com) |
@@ -84,7 +83,7 @@
 | Dave Simoes | -- | [Origin](https://github.com/DaveSimoes/Developer.Portfolio) | HTML + CSS + JavaScript，卡通办公主题作品集 | [Demo](https://davesimoesportfolio.netlify.app) |
 | Aravind Ashokan | -- | [Origin](https://github.com/code-lover636/aravindashokan) | React + SCSS + Framer Motion，标准个人作品集 | [Demo](https://aravindashokan.tech) |
 | KD Gehlot | -- | [Origin](https://github.com/KDGehlot2003/Portfolio) | HTML + CSS + JavaScript，灰白风格个人作品集 | [Demo](https://kdgehlot2003.github.io/Portfolio) |
-| John T45 | -- | [Origin](https://github.com/John-T45/John-T45.github.io) | HTML + CSS + JavaScript，黑色主题动画作品集 | [Demo](https://john-t45.github.io) |
+| John T45 | -- | [Origin](https://github.com/John-T45/John-T45.github.io) | HTML + CSS + JavaScript黑色主题动画作品集 | [Demo](https://john-t45.github.io) |
 | Krishnavalliappan | -- | [Origin](https://github.com/krishnavalliappan/portfolio-website) | Next.js + TypeScript + Tailwind，蓝色主题终端风格 | [Demo](https://krishnakumar.dev) |
 | Gokul Raja | -- | [Origin](https://github.com/Gokul-Raja84/gokul-raja84.github.io) | JavaScript + CSS，标准个人介绍网站 | [Demo](https://gokul-raja84.github.io) |
 | Chung Nguyen Thanh | -- | [Origin](https://github.com/chunhthanhde) | Flutter + Dart，访客留言板个人品牌 | [Demo](https://chunhthanhde.github.io/card) |
