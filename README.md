@@ -20,12 +20,10 @@
 | Brittany Chiang | -- | [Origin](https://github.com/bchiang7/v4) | Gatsby构建，优雅的设计风格，适合设计师 | [Demo](https://v4.brittanychiang.com) |
 | Braydon Coyer | -- | [Origin](https://github.com/braydoncoyer/braydoncoyer.dev) | Next.js 15 + Tailwind + Supabase + Framer Motion，现代化博客作品集 | [Demo](https://braydoncoyer.dev) |
 | JohnDoe Portfolio | -- | [Origin](https://github.com/learning-zone/website-templates/tree/master/johndoe-portfolio-resume-bootstrap-template) | Bootstrap作品集风格，突出个人特色 | [Demo](https://edgeone.ai/demo/johndoe) |
-| Tania Rascia | -- | [Origin](https://www.taniarascia.com/how-to-create-a-memory-game-super-mario-with-plain-javascript/) | 纯JavaScript实现，适合学习前端基础 | [Demo](https://www.taniarascia.com/memory/) |
 | Jemima Abu | -- | [Origin](https://github.com/jemimaabu/portfolio) | 简洁的HTML/CSS作品集，适合快速搭建 | [Demo](https://jemimaabu.com) |
 | Olaolu | -- | [Origin](https://github.com/whizkydee/olaolu.dev) | Vue + Gridsome构建，个人网站与文章集 | [Demo](https://olaolu.dev) |
 | AVS1508 Portfolio | -- | [Origin](https://github.com/AVS1508/My-Alternate-Portfolio-Website) | Jekyll + Sass + Gulp.js，粒子效果主题 | [Demo](https://people.umass.edu/avsingh/) |
 | Adeola Adeoti | -- | [Origin](https://github.com/adeolaadeoti/adeolaadeoti-v2) | Next.js + TypeScript + SCSS，现代化交互效果 | [Demo](https://adeolaadeoti.site) |
-| Max Boeck | -- | [Origin](https://github.com/maxboeck/mxb) | Eleventy + SCSS + Nunjucks，轻量级静态网站 | [Demo](https://mxb.dev) |
 | Rafael Conde | -- | [Origin](https://github.com/rafaelconde/rafaelconde) | Eleventy + Nunjucks + CSS，简洁个人网站 | [Demo](https://rafaelconde.com) |
 | Bruno Simon | -- | [Origin](https://github.com/brunosimon/folio-2019) | Three.js + JavaScript，3D交互作品集 | [Demo](https://bruno-simon.com) |
 | Jason Lengstorf | -- | [Origin](https://github.com/jlengstorf/jason.energy) | Astro + MDX，现代化博客网站 | [Demo](https://jason.energy) |
