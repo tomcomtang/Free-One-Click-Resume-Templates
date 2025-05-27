@@ -32,9 +32,9 @@
 | Anand Baraik | -- | [Origin](https://github.com/anandbaraik/anandbaraik.github.io) | React + CSS3 + HTML5，个人作品集展示 | [Demo](https://anandbaraik.github.io) |
 | Nirban Chakraborty | -- | [Origin](https://github.com/nirban256/personal_website) | Next.js 14 + TypeScript + Tailwind CSS + shadcn/ui | [Demo](https://nirban-chakraborty.netlify.app) |
 | Benrobo | -- | [Origin](https://github.com/benrobo/portfolio-v3) | Next.js + Tailwind CSS，使用BaayMax生成 | [Demo](https://benrobo.vercel.app) |
-| AnishDe12020 | -- | [Origin](https://github.com/AnishDe12020/portfolio) | Next.js + Contentlayer + Tailwind CSS，博客作品集 | [Demo](https://portfolio-55fbf2.spheron.app) |
+| AnishDe12020 | -- | [Origin](https://github.com/AnishDe12020/portfolio) | Next.js + Contentlayer + Tailwind CSS，博客作品集 | [Demo](https://anishde.dev/) |
 | Flutter Dev Folio | -- | [Origin](https://github.com/danger-ahead/flutter_dev_folio) | Flutter + Dart，仅需编辑JSON即可部署 | [Demo](https://shourya.vercel.app) |
-| Omar Sherif | -- | [Origin](https://github.com/omar-sherif9992) | React + Next.js + Tailwind CSS，全栈开发者作品集 | [Demo](https://omar-sherif9992.github.io) |
+| Omar Sherif | -- | [Origin](https://github.com/omar-sherif9992) | React + Next.js + Tailwind CSS，全栈开发者作品集 | [Demo](https://osa-portfolio.vercel.app) |
 | Dale Larroder | -- | [Origin](https://github.com/dlarroder/dalelarroder) | Next.js + TypeScript + Tailwind + MDX，现代化个人网站 | [Demo](https://dalelarroder.com) |
 | Guillaume Gouessan | -- | [Origin](https://github.com/superguigui/guillaumegouessan.com) | brindille-es6 + JavaScript，经典作品集网站 | [Demo](https://guillaumegouessan.com) |
 | Reuben Rapose | -- | [Origin](https://github.com/reubence/reubence) | React + TypeScript，全栈开发者作品集 | [Demo](https://reubence.com) |
@@ -51,7 +51,7 @@
 | Daniel Cranney | -- | [Origin](https://github.com/danielcranney/portfolio) | Next.js + React + TailwindCSS，现代化作品集 | [Demo](https://danielcranney.com) |
 | Theodorus Clarence | -- | [Origin](https://github.com/theodorusclarence/theodorusclarence.com) | Next.js + TypeScript + Tailwind + MDX + Prisma，现代化博客作品集 | [Demo](https://theodorusclarence.com) |
 | Lynn Fisher | -- | [Origin](https://github.com/lynnandtonic/lynnandtonic.com) | Pug + Stylus + JavaScript，创意作品集网站 | [Demo](https://lynnandtonic.com) |
-| Danny Garcia | -- | [Origin](https://github.com/dannygarcia/dannygarcia.github.com) | Astro + TypeScript + GLSL，简洁个人笔记网站 | [Demo](https://dannygarcia.dev) |
+| Danny Garcia | -- | [Origin](https://github.com/dannygarcia/dannygarcia.github.com) | Astro + TypeScript + GLSL，简洁个人笔记网站 | [Demo](https://danny-garcia.com) |
 | Jesse's Ramen Shop | -- | [Origin](https://github.com/enderh3art/Ramen-Shop) | JavaScript + GLSL，3D拉面店场景作品集 | [Demo](https://ramen-shop-pro-jesse-s-pro-team-595da84f.vercel.app) |
 | Anurag Hazra | -- | [Origin](https://github.com/anuraghazra/anuraghazra.github.io) | Gatsby + Styled Components，清爽个人品牌网站 | [Demo](https://anuraghazra.dev) |
 | Ben Holmes | -- | [Origin](https://github.com/bholmesdev/bholmesdev) | Astro + TypeScript + Tailwind，白板风格个人网站 | [Demo](https://bholmes.dev) |
