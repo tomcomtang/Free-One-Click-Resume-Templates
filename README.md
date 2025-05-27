@@ -27,7 +27,6 @@
 | Rafael Conde | -- | [Origin](https://github.com/rafaelconde/rafaelconde) | Eleventy + Nunjucks + CSS，简洁个人网站 | [Demo](https://rafaelconde.com) |
 | Bruno Simon | -- | [Origin](https://github.com/brunosimon/folio-2019) | Three.js + JavaScript，3D交互作品集 | [Demo](https://bruno-simon.com) |
 | Jason Lengstorf | -- | [Origin](https://github.com/jlengstorf/jason.energy) | Astro + MDX，现代化博客网站 | [Demo](https://jason.energy) |
-| Aaron Shap | -- | [Origin](https://github.com/aarshap/aaron.mn) | Next.js + Tailwind CSS，简洁个人网站 | [Demo](https://aaron.mn) |
 | Zougari47 | -- | [Origin](https://github.com/zougari47/portfolio-template) | Astro + Tailwind CSS，5分钟快速部署 | [Demo](https://zougari47.github.io/portfolio-template) |
 | SRX9 | -- | [Origin](https://github.com/SRX9/portfoliosrx9) | React + TypeScript + Tailwind CSS，现代化作品集 | [Demo](https://srx9.github.io/portfoliosrx9) |
 | Israel Mitolu | -- | [Origin](https://github.com/israelmitolu/premier-portfolio) | HTML + SCSS + GSAP，动画效果丰富 | [Demo](https://mitolu.dev) |
