@@ -86,6 +86,7 @@
 | CultureDevOps | -- | [Origin](https://github.com/CultureDevOps/blog) | Next.js + TypeScript + MDX，现代化技术博客 | [Demo](https://culturedevops.com) |
 | Deepak Modi | -- | [Origin](https://github.com/decodewithdeepak/Portfolio) | React + TypeScript + Tailwind，动态数据作品集 | [Demo](https://deepakmodi.vercel.app) |
 | Enes | -- | [Origin](https://github.com/enesehs/enesehs.github.io) | HTML + JavaScript，游戏开发者作品集 | [Demo](https://enesehs.github.io) |
+| Jaber Saed (Sister) | -- | [Origin](https://github.com/Jaber-Saed/mysister-protfoluo) | React + Vite + CSS，现代化个人作品集 | [Demo](https://jaber-saed.github.io/mysister-protfoluo) |
 
 ## 🚀 快速部署
 
