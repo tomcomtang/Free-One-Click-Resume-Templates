@@ -29,7 +29,6 @@
 | Jason Lengstorf | -- | [Origin](https://github.com/jlengstorf/jason.energy) | Astro + MDX，现代化博客网站 | [Demo](https://jason.energy) |
 | SRX9 | -- | [Origin](https://github.com/SRX-OSS/VS-Code-Theme-Portfolio) | React + TypeScript + Tailwind CSS，现代化作品集 | [Demo](https://srx9.github.io/portfoliosrx9) |
 | Israel Mitolu | -- | [Origin](https://github.com/israelmitolu/premier-portfolio) | HTML + SCSS + GSAP，动画效果丰富 | [Demo](https://mitolu.dev) |
-| Saikat Roy | -- | [Origin](https://github.com/njmsaikat/portfolio) | HTML + CSS + JavaScript，简洁作品集网站 | [Demo](https://saikatroy.netlify.app) |
 | Anand Baraik | -- | [Origin](https://github.com/anandbaraik/anandbaraik.github.io) | React + CSS3 + HTML5，个人作品集展示 | [Demo](https://anandbaraik.github.io) |
 | Nirban Chakraborty | -- | [Origin](https://github.com/nirban256/personal_website) | Next.js 14 + TypeScript + Tailwind CSS + shadcn/ui | [Demo](https://nirban-chakraborty.netlify.app) |
 | Benrobo | -- | [Origin](https://github.com/benrobo/portfolio-v3) | Next.js + Tailwind CSS，使用BaayMax生成 | [Demo](https://benrobo.vercel.app) |
