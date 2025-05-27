@@ -69,7 +69,7 @@
 | SofiDevO | -- | [Origin](https://github.com/SofiDevO/sofidev-portfolio-astro) | Astro + React + CSS，终端风格女性主题作品集 | [Demo](https://sofidev-portfolio-astro-delta.vercel.app) |
 | Wisnu Caksono | -- | [Origin](https://github.com/wiscaksono/wiscaksono-site) | Svelte + TypeScript + Tailwind，Mac终端风格博客 | [Demo](https://wiscaksono.com) |
 | Alpay Celik | -- | [Origin](https://github.com/AlpayC/portfolio_site) | React + TypeScript + Tailwind，暗色主题全栈作品集 | [Demo](https://alpaycelik.dev) |
-| Jaber Saed | -- | [Origin](https://github.com/Jaber-Saed/3d-protfoluo) | React + Three.js，太空主题3D作品集 | [Demo](https://jaber-saed.vercel.app) |
+| Jaber Saed | -- | [Origin](https://github.com/Jaber-Saed/3d-protfoluo) | React + Three.js，太空主题3D作品集 | [Demo](https://jaber.dev) |
 | Dhairya Majmudar | -- | [Origin](https://github.com/DhairyaMajmudar/Personal-Portfolio) | React + Tailwind，官网风格个人介绍 | [Demo](https://dhaiyra-majmudar.netlify.app) |
 | Dave Simoes | -- | [Origin](https://github.com/DaveSimoes/Developer.Portfolio) | HTML + CSS + JavaScript，卡通办公主题作品集 | [Demo](https://davesimoesportfolio.netlify.app) |
 | Aravind Ashokan | -- | [Origin](https://github.com/code-lover636/aravindashokan) | React + SCSS + Framer Motion，标准个人作品集 | [Demo](https://aravindashokan.tech) |
