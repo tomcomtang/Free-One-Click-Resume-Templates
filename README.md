@@ -2,17 +2,12 @@
 
 ## 📝 项目介绍
 
-这是一个开源的在线简历模板库，提供多种精美的简历模板，支持一键部署上线。作为一名热爱分享的学生，我希望通过这个项目帮助更多人快速创建专业的在线简历。
+作为一名热爱编程的学生，我在寻找项目合作机会时，发现缺少一个能够展示自己技能和作品的专业个人品牌网站。于是我收集整理了这些优秀的网站模板，分享给和我有相同需求的朋友们。
+这个项目收集了开发者作品集、创意展示网站、个人博客、在线简历等模版。每个模板都经过精心挑选，确保它们不仅美观，而且易于部署和使用。
 
-作为一名学生，我深知求职过程中简历的重要性。通过这个项目，我希望能够帮助到：
-- 正在求职的应届毕业生
-- 想要展示个人作品集的创作者
-- 需要在线简历的职场人士
-- 想要建立个人品牌的朋友们
+## 📋 个人品牌站点模版列表
 
-## 📋 简历模板列表
-
-这里收集了一些优秀的开源简历模板，你可以直接使用这些模板，也可以参考[快速部署](#-快速部署)部分来部署自己的GitHub项目。如果你有更好的模板推荐，欢迎告诉我，我会更新到列表中！
+这里收集了一些优秀的开源个人品牌网站模板。为了方便大家使用，我会挨个对每个项目都作二次处理，将个人站点的内容管理集成整理成配置，方便大家修改为自己的内容，但版权仍属于原作者。如果你看到 Project 列有链接，说明我已经对该项目进行了二次改进，你可以直接使用改进后的版本。你可以直接使用这些模板，也可以参考[快速部署](#-快速部署)部分来部署自己的GitHub项目。如果你有更好的模板推荐，欢迎告诉我，我会更新到列表中！
 
 | 模板名称 | Project | Origin | 特点 | Demo |
 |---------|---------|--------|------|------|
@@ -69,15 +64,13 @@
 | SofiDevO | -- | [Origin](https://github.com/SofiDevO/sofidev-portfolio-astro) | Astro + React + CSS，终端风格女性主题作品集 | [Demo](https://sofidev-portfolio-astro-delta.vercel.app) |
 | Wisnu Caksono | -- | [Origin](https://github.com/wiscaksono/wiscaksono-site) | Svelte + TypeScript + Tailwind，Mac终端风格博客 | [Demo](https://wiscaksono.com) |
 | Alpay Celik | -- | [Origin](https://github.com/AlpayC/portfolio_site) | React + TypeScript + Tailwind，暗色主题全栈作品集 | [Demo](https://alpaycelik.dev) |
-| Jaber Saed | -- | [Origin](https://github.com/Jaber-Saed/3d-protfoluo) | React + Three.js，太空主题3D作品集 | [Demo](https://jaber.dev) |
 | Dhairya Majmudar | -- | [Origin](https://github.com/DhairyaMajmudar/Personal-Portfolio) | React + Tailwind，官网风格个人介绍 | [Demo](https://dhaiyra-majmudar.netlify.app) |
 | Dave Simoes | -- | [Origin](https://github.com/DaveSimoes/Developer.Portfolio) | HTML + CSS + JavaScript，卡通办公主题作品集 | [Demo](https://davesimoesportfolio.netlify.app) |
 | Aravind Ashokan | -- | [Origin](https://github.com/code-lover636/aravindashokan) | React + SCSS + Framer Motion，标准个人作品集 | [Demo](https://aravindashokan.tech) |
 | KD Gehlot | -- | [Origin](https://github.com/KDGehlot2003/Portfolio) | HTML + CSS + JavaScript，灰白风格个人作品集 | [Demo](https://kdgehlot2003.github.io/Portfolio) |
-| John T45 | -- | [Origin](https://github.com/John-T45/John-T45.github.io) | HTML + CSS + JavaScript黑色主题动画作品集 | [Demo](https://john-t45.github.io) |
+| John T45 | -- | [Origin](https://github.com/John-T45/John-T45.github.io) | HTML + CSS + JavaScript黑色主题动画作品集 | [Demo](johnson-takashi-blockchain.web.app) |
 | Krishnavalliappan | -- | [Origin](https://github.com/krishnavalliappan/portfolio-website) | Next.js + TypeScript + Tailwind，蓝色主题终端风格 | [Demo](https://krishnakumar.dev) |
 | Gokul Raja | -- | [Origin](https://github.com/Gokul-Raja84/gokul-raja84.github.io) | JavaScript + CSS，标准个人介绍网站 | [Demo](https://gokul-raja84.github.io) |
-| Chung Nguyen Thanh | -- | [Origin](https://github.com/chunhthanhde) | Flutter + Dart，访客留言板个人品牌 | [Demo](https://chunhthanhde.github.io/card) |
 | Adeola Badero | -- | [Origin](https://github.com/adex-hub/ade-folio) | Next.js + TypeScript + Tailwind，标准前端作品集 | [Demo](https://adeolabadero.me) |
 | Akshay P | -- | [Origin](https://github.com/Akshayp2002/personal-portfolio-angular) | Angular + Tailwind，标准个人作品集 | [Demo](https://devakshay.vercel.app) |
 | Priyansh Tiwari | -- | [Origin](https://github.com/priyanshtiwari001/portfolio) | Next.js + TypeScript + Tailwind，现代化个人作品集 | [Demo](https://priyanshu-tiwari.vercel.app) |
@@ -92,91 +85,82 @@
 
 ### 方法一：普通用户部署（推荐）
 
-#### Step 1: 下载项目
+Step 1: 下载项目
 1. 点击本页面右上角的绿色 "Code" 按钮
 2. 选择 "Download ZIP" 下载项目文件
 
 ![Download ZIP](https://i.pinimg.com/736x/85/b1/d6/85b1d6a8f00c1844eaa29d91f5842ac2.jpg)
 
-#### Step 2: 访问部署页面
+Step 2: 访问部署页面
 1. 访问 [EdgeOne.ai 管理页面](https://edgeone.ai/pages/manage)
 2. 点击 "Upload Files" 按钮
 
 ![Upload Button](https://i.pinimg.com/736x/22/4d/3c/224d3c758e357144830ce9400b9c527d.jpg)
 
-#### Step 3: 上传并部署
+Step 3: 上传并部署
 1. 上传你在 Step 1 下载的 ZIP 文件
 2. 点击 "Start Deployment" 开始部署
 
 ![Upload and Deploy](https://i.pinimg.com/736x/54/e9/f1/54e9f1f400d246f25f7bc693223f1892.jpg)
 
-#### Step 4: 等待部署完成
-部署完成后，你就可以通过生成的链接访问你的在线简历了！
+Step 4: 等待部署完成
+部署完成后，你就可以通过生成的链接访问你的个人品牌网站了！
 
 ![Deployment Progress](https://i.pinimg.com/736x/c9/69/5c/c9695c1b52a43a19a9764f05941b693a.jpg)
-
-这是最简单快捷的部署方式，无需复杂的配置，几分钟内就能完成部署！
 
 ### 方法二：开发者部署
 
-#### Step 1: Fork 项目
-1. 点击本页面右上角的 "Fork" 按钮
-2. 等待 Fork 完成
+The deployment URL follows this structure: `https://edgeone.ai/pages/new?template=https://github.com/evavic44/victoreke.com&source=tomchild`
+- `template`: This parameter should be the GitHub repository URL of the game you want to deploy
+- `source`: This is a tracking parameter (you can keep it as is)
 
-![Fork Project](https://i.pinimg.com/736x/85/b1/d6/85b1d6a8f00c1844eaa29d91f5842ac2.jpg)
+This means you can deploy any GitHub game repository by replacing the `template` parameter with the repository URL. For example, if you find another open-source game on GitHub, you can deploy it using the same format.
 
-#### Step 2: 克隆到本地
-```bash
-git clone https://github.com/你的用户名/Free-One-Click-Resume-Templates.git
-cd Free-One-Click-Resume-Templates
-```
+Below is a detailed step-by-step tutorial with screenshots showing what happens after you click the "Deploy" button:
 
-#### Step 3: 安装依赖
-```bash
-npm install
-```
+1. Choose your favorite game from the Game List above
+2. Click the "Deploy" button in the Game List table above
+3. If you are using Google Chrome and have a Google account, simply click "Sign in with Google" to log in with your Google email
 
-#### Step 4: 本地开发
-```bash
-npm run dev
-```
+![Login Screen](https://i.pinimg.com/736x/97/63/85/9763856f6911b11fc7cde045d1165d9f.jpg)
 
-#### Step 5: 部署到 EdgeOne
-1. 访问 [EdgeOne.ai 管理页面](https://edgeone.ai/pages/manage)
-2. 点击 "New Project" 按钮
-3. 选择 "Import from GitHub"
-4. 选择你 Fork 的项目
-5. 点击 "Deploy" 按钮
+4. Next, you'll see a GitHub integration screen. If you already have a GitHub account, please log in to GitHub and click "github" to link it
 
-![Deploy to EdgeOne](https://i.pinimg.com/736x/54/e9/f1/54e9f1f400d246f25f7bc693223f1892.jpg)
+![GitHub Integration](https://i.pinimg.com/736x/47/42/6d/47426de92aada699773055a6932cb564.jpg)
 
-#### Step 6: 等待部署完成
-部署完成后，你就可以通过生成的链接访问你的在线简历了！
+5. After clicking github, you'll see a GitHub integration interface - simply click "install" to proceed
 
-![Deployment Progress](https://i.pinimg.com/736x/c9/69/5c/c9695c1b52a43a19a9764f05941b693a.jpg)
+![GitHub Install](https://i.pinimg.com/736x/31/88/fd/3188fdc18a30409bb235f5601054ab89.jpg)
 
-这种方式适合想要：
-- 自定义简历模板
-- 添加新功能
-- 修改现有功能
-- 贡献代码的开发者
+6. After linking your GitHub account, you'll see a visibility settings screen. Here you can choose between "private" (only you can access the deployed game) or "public" (everyone can access the deployed game). Make your choice and click the "create" button to start the deployment
 
-## 👨‍💻 关于我
+![Visibility Settings](https://i.pinimg.com/736x/8f/e0/5f/8fe05f148dc399f32727e30facfd914e.jpg)
 
-大家好，我是一名热爱编程的学生。在学习过程中，我发现很多同学都需要一个简单的方式来创建在线简历。因此，我开发了这个项目，希望能够帮助到更多的人。
+7. After clicking "create", you'll see a deployment waiting screen - just wait for the deployment to complete
 
-### 联系方式
+![Deployment Waiting](https://i.pinimg.com/736x/5c/8e/0a/5c8e0a44ad6f5195655718dd46cb40b4.jpg)
 
-- GitHub: [你的GitHub链接]
-- Email: [你的邮箱]
+8. Once deployment is complete, you'll see a congratulatory message. Click the link indicated by the arrow to start playing the game! The link will take you to your own unique custom domain, which is private to you. Since this is your personal domain, as long as you don't share it publicly, you can avoid any blocking risks.
 
-## 🤝 参与贡献
+![Deployment Complete](https://i.pinimg.com/736x/56/f1/c8/56f1c854a5f1623d2c901bc178109c73.jpg)
 
-欢迎提交 Issue 和 Pull Request 来帮助改进这个项目！
+9. Now you can play the H5 game on your own domain!
 
-## 📄 开源协议
+![Game Playing](https://i.pinimg.com/736x/b2/c7/ef/b2c7ef348118e4e65ad84ba09e45f5c0.jpg)
 
-本项目采用 MIT 协议开源，欢迎使用和分享。
+## 📄 版权声明
+
+本项目仅作为开源个人品牌网站模板的收集和整理，所有模板的版权归原作者所有。请在使用时遵守原项目的开源协议。
+
+### 使用建议
+- 推荐用于个人学习和展示用途
+- 不建议用于商业用途
+- 使用前请仔细阅读原项目的开源协议
+
+### 免责声明
+本项目仅作为模板推荐和引导，不承担任何法律责任。使用本项目中的任何模板所产生的任何问题，均由使用者自行承担。
+
+如果你喜欢某个模板，欢迎给原作者一个 star ⭐️ 支持！
 
 ## 🙏 致谢
 
